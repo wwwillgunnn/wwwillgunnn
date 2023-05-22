@@ -21,7 +21,7 @@
 <h3>Stats:</h3>
 <img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFhMzgxNTljZmM0NGUzMGQwYTRiMzVmNjQ3YzI0Yzg3ODk5YTliNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Dh5q0sShxgp13DwrvG/giphy.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwillgunnn&show_icons=true&locale=en&theme=dark" alt="wwwillgunnn" /></p>
-<p><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=wwwillgunnn&theme=dark" alt="wwwillgunnn" /></p>
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=wwwillgunnn&theme=dark" alt="wwwillgunnn" /></p>
 
 <br>
 <h3 align="center">Check out my reposities below!</h3>
