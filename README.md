@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Will!</h1>
-<h3 align="center">I am a student studying a Bachelors of Software Engineering at the University of Canberra</h3>
+<h3 align="center">I am a student studying a Bachelor of Software Engineering at the University of Canberra</h3>
 
 #
 
